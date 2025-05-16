@@ -1,25 +1,3 @@
-## 📝 Quick Summary
-
-I am a results-driven Staff Software Engineer (Technical Lead) with 12 years of experience in building and leading high-performing teams to deliver scalable, multi-tenant, high-performance web applications. Proven track record of designing, developing, deploying, and maintaining complex front-end systems at scale. Deep expertise in JavaScript, React.js, Node.js, and modern Web technologies, coupled with a passion for fostering collaboration, engineering excellence, and mentoring future leaders.
-
-### Highlights at Walmart Global Tech India
-
-- **Architected & developed** a no-code, self-service platform (drag-and-drop template builder & runtime services) for Walmart customer communications from scratch.
-- Enabled **150+ teams** across Walmart US, Canada, Mexico, and international markets to build and deploy Email, SMS, Push, InApp & Voice templates, processing **40M+ messages daily**.
-- **5000+ templates** created using the drag-and-drop tool.
-- Implemented **internationalization** for 600+ templates and introduced WhatsApp as a communication channel.
-- Designed and developed a robust **component library** and led a team of 8 frontend engineers, boosting project velocity by 40%, reducing vulnerabilities by 50%, and improving coverage by 70%.
-- Set up **CI/CD pipelines** for frontend projects.
-- Supported Black Friday sales and system reliability at Walmart’s San Francisco office.
-
-### Beyond Coding
-
-- Passionate about **mentoring** and team growth; coached junior engineers, defined roadmaps, and collaborated across time zones.
-- Active **content creator and tech educator** on YouTube, Udemy, and LinkedIn (68,000+ followers).
-- Skilled at simplifying complex topics, inspiring teams, and fostering a culture of continuous learning.
-
----
-
 ## 💼 Work Experience
 
 | Role                                     | Company                       | Duration            | Location         |
@@ -35,12 +13,10 @@ I am a results-driven Staff Software Engineer (Technical Lead) with 12 years of 
 - Led front-end engineering for a global customer communications platform (Email, SMS, Push, WhatsApp, Voice, In-App notifications).
 - Architected, scaled, and launched a self-service, no-code internal tool used by 150+ teams globally.
 - Defined technical design docs (HLD, LLD, architecture diagrams, sequence flows, implementation plans) for 5+ major features.
-- Implemented internationalization for 600+ templates; enabled multilingual messaging.
+- Implemented internationalization for email templates; enabled multilingual messaging.
 - Designed end-to-end architecture for WhatsApp as a communication channel.
 - Built a robust UI component library (20+ reusable components), published as a reusable package.
 - Led roadmap planning, sprint execution, and task distribution for a team of 8 developers.
-- Collaborated with 2 Product Managers, 2 UX Designers, and 1 Engineering Manager.
-- Mentored 3 junior engineers, improving team productivity by 50%.
 
 ### PayPal India Private Limited (Jul 2021 - Aug 2022)
 
